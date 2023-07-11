@@ -1,0 +1,17 @@
+.textQuote {
+    font-size: 2rem;
+    font-weight: 600;
+    color: rgb(74, 109, 74)
+}
+
+.quoteWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.author {
+    font-size: 2rem;
+    text-align: end;
+    margin-top: 30px;
+    font-weight: 400;
+}
